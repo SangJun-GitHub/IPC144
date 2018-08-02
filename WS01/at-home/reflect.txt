@@ -1,0 +1,57 @@
+1 - Name the four most common types of C language and their size in bytes.
+char - 1byte
+int - 4bytes
+float - 4bytes
+double  - 8bytes
+
+2 - Name the ¡°int¡±  Size Specifiers and their size in bytes.
+Short - 2bytes
+Long  - 4bytes 
+Long long  - 8bytes
+
+3 - Write a C statement; declare an integer variable called ¡°age¡± and initialize it to 24;
+ int main() 
+{
+int age;
+age = 24;
+return 0;
+}
+
+4 - Write ONE C statement and declare two constant double variables called PI and G. Initialize PI to 3.14159265 and G to 9.8.
+ int main()
+{
+const double PI, G;
+PI = 3.14159265;
+G = 9.8;
+return 0;
+}
+
+5 - What is the name of the escape sequence ¡°\t¡±; 
+horizontal tab
+
+6 - write a function-call to read an integer number from keyboard and place it in a variable called ¡°num¡±; (scanf)
+ int main() 
+{
+int num;
+scanf(¡°%d¡±,  num);
+return 0;
+}
+
+7 - write a function-call to print the value of a double variable called ¡°balance¡±. (printf)
+printingBalance()
+{
+double balance;
+printf(¡°%lf¡±, balance);
+}
+
+8 - What are the values of A and B after these statements:
+int A, B = 10;
+A = B++;
+
+A=11
+B=10
+
+9 -In one sentence explain what is ¡°casting¡± in C language.
+The C language supports conversions from one type to another.  
+To convert the type of an operand, we precede the operand with the target type enclosed within parentheses.
+We call such an expression a cast.
