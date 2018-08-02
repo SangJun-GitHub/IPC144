@@ -1,0 +1,17 @@
+1) Name all the iteration constructs.
+do while
+while
+for
+
+2) In two or three sentences explain the difference between a ¡°do while¡± and a ¡°while¡± loop?
+"do while" is first doing something, then checking the condition.
+but, "while" is first checking the condition.
+
+3) In two or three sentences explain what is meant by the term conditional expression? 
+Referring to an action that takes place only if a specific condition is met. 
+Conditional expressions enable a program to act differently each time it is executed, depending on the input. 
+
+
+Quiz reflect
+I didn't get my previous quiz sheet.
+
