@@ -1,0 +1,15 @@
+1)In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+When initializing an array and the number of elements initialized is less than the elements in the array.
+it will be hard to get correct number because program will try to find elements initialized outside of array.
+
+2)In two or three sentences explain the advantages and disadvantages of using matching arrays?
+Advantages: 
+It is used to represent multiple data items of same type by using only single name.
+It can be used to implement other data structures like linked lists, stacks, queues, trees, graphs etc.
+Disadvantages:
+I must know in advance that how many elements are to be stored in array.
+Since array is of fixed size, if I allocate more memory than requirement then the memory space will be wasted. And if I allocate less memory than requirement, then it will create problem.
+The elements of array are stored in consecutive memory locations. So insertions and deletions are very difficult and time consuming.
+
+3)Was the at home portion of this workshop too easy, just right or too hard? Why? 
+it was too hard because when i missing the arrays everything is changed completly.
