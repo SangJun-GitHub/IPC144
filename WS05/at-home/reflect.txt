@@ -1,0 +1,23 @@
+1)In two or three sentences discuss the advantages of using an array of structs versus parallel arrays when dealing with related data 
+
+If I can use an array of structs, that is pretty organized and easy to call and edit.
+Because, if I didn't use structs the cord is more complex and I miss some information easily.
+
+2)The preferred method of declaring a struct data type is in a header file. Briefly explain why.
+When we place source code in a header file, we insert that header file's code into the source file that requires that information.  
+In such cases, our complete source code is stored in more than one file. 
+
+
+
+quiz3 reflection
+
+5. Create a C String called "lastname" big enough to hold "BLACK" and initialize it to "BLACK".
+char lastname[6]={BLACK}
+
+6.what is the difference between a character array and a String in C?
+A character array is simply an array of characters 
+A sting is data structure that uses an array of character.
+String is a collection of charecter,it must be ended with null.
+Charecter array is aset of elements if you didn't give a space for null,it shows error.
+
+
