@@ -1,0 +1,1 @@
+Austin and Margarita taught me how to use pointer and string library.

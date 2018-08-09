@@ -1,0 +1,6 @@
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability. 
+ findContactIndex is find matched cell phone number's location.
+ getTenDigitPhone is check 10 digits for phone number.
+
+4. What did you learn most from doing Assignment 2? 
+I learned most how to use the pointer and string library.
