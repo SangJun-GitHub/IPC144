@@ -1,0 +1,4 @@
+1. In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language?
+honestly, I can't understand this question.
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module?  
+because I didn't cord each menu's  function, also I didn't use the contact header file in "helper".
