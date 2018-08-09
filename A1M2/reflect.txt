@@ -1,0 +1,8 @@
+Milestone 2 Reflection (20%)
+Please provide brief answers to the following questions in a file named reflect.txt.
+1.	Can you think of a more efficient way to ask a user to add the required information to each data field?
+Actually, I don't have an idea. if I make this program to a better way, I will use function and pointer.  Function and pointer help me easy to change my program, also easy to organize.
+
+2.	Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+Because computer does not realize end of arry, so using \0 computer realize end of arry
+
